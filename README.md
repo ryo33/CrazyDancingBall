@@ -1,15 +1,15 @@
 CrazyDancingBall
 ================
 ###Description
-  simple ball game
+  simple ball game  
   hit to point balls to get point
 ###Requirement
   JRE
 ###Install
   copy "CrazyDancingBall.jar"
 ###Usage
-  double click
-  or
+  double click  
+  or  
   `$ java CrazyDancingBall.jar`
 ###Future
   add fx
