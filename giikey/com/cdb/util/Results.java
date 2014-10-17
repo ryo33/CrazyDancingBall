@@ -68,7 +68,7 @@ public class Results implements Serializable {
 				return;
 			}
 		}
-		if(point>=points[9]){
+		if(point>=points[9] && point != 0){
 			String name = "";
 			if((name=(String) JOptionPane.showInputDialog(null,"Enter Your Name","High Score",JOptionPane.PLAIN_MESSAGE,null,null,"Player")) == null || name.length() == 0){
 				name=new String(ANONYMOUS);
