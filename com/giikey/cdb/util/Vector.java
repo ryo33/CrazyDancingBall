@@ -1,4 +1,4 @@
-package giikey.com.cdb.util;
+package com.giikey.cdb.util;
 
 public class Vector {
 

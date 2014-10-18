@@ -1,10 +1,10 @@
-package giikey.com.cdb.game;
-
-import giikey.com.cdb.Main;
-import giikey.com.cdb.util.Vector;
+package com.giikey.cdb.game;
 
 import java.awt.Color;
 import java.awt.Graphics;
+
+import com.giikey.cdb.Main;
+import com.giikey.cdb.util.Vector;
 
 public class Item {
 

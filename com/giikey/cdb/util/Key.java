@@ -1,4 +1,4 @@
-package giikey.com.cdb.util;
+package com.giikey.cdb.util;
 
 public class Key {
 	public boolean w, a, s, d, q, r, space, esc;

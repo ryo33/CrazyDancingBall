@@ -1,14 +1,14 @@
-package giikey.com.cdb.game;
-
-import giikey.com.cdb.Main;
-import giikey.com.cdb.util.Key;
-import giikey.com.cdb.util.Results;
-import giikey.com.cdb.util.ResultsIO;
-import giikey.com.cdb.util.Vector;
+package com.giikey.cdb.game;
 
 import java.awt.Color;
 import java.awt.Font;
 import java.awt.Graphics;
+
+import com.giikey.cdb.Main;
+import com.giikey.cdb.util.Key;
+import com.giikey.cdb.util.Results;
+import com.giikey.cdb.util.ResultsIO;
+import com.giikey.cdb.util.Vector;
 
 public class Manage {
 

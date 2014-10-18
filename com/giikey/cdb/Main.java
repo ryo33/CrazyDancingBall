@@ -1,7 +1,4 @@
-package giikey.com.cdb;
-
-import giikey.com.cdb.game.Manage;
-import giikey.com.cdb.util.Key;
+package com.giikey.cdb;
 
 import java.awt.Color;
 import java.awt.Graphics;
@@ -14,6 +11,9 @@ import java.util.TimerTask;
 
 import javax.swing.JFrame;
 import javax.swing.UIManager;
+
+import com.giikey.cdb.game.Manage;
+import com.giikey.cdb.util.Key;
 
 public class Main {
 	public JFrame f;

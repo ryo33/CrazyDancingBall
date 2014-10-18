@@ -1,6 +1,4 @@
-package giikey.com.cdb.util;
-
-import giikey.com.cdb.Main;
+package com.giikey.cdb.util;
 
 import java.awt.Color;
 import java.awt.Font;
@@ -10,6 +8,8 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 
 import javax.swing.JOptionPane;
+
+import com.giikey.cdb.Main;
 
 public class Results implements Serializable {
 	
