@@ -12,6 +12,9 @@ CrazyDancingBall
     clone this
 ###Usage
     compile "Main.java" and execute
+    ##Keys  
+    WASD: control  
+    Esc: pause
 ###Future
     add fx
 ###Author
