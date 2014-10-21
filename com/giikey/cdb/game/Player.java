@@ -38,16 +38,16 @@ public class Player {
 		}
 		
 		if(vector.getX() > MAX){
-			vector = new Vector(MAX, 0);
+			vector = new Vector(MAX, vector.getYd());
 		}
 		if(vector.getX() < -MAX){
-			vector = new Vector(-MAX, 0);
+			vector = new Vector(-MAX, vector.getYd());
 		}
 		if(vector.getY() > YMAX){
-			vector = new Vector(0, YMAX);
+			vector = new Vector(vector.getXd(), YMAX);
 		}
 		if(vector.getY() < -YMAX){
-			vector = new Vector(0, -YMAX);
+			vector = new Vector(vector.getXd(), -YMAX);
 		}
 		
 		xy.add(vector);
